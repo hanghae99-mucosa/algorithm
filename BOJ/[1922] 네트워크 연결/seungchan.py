@@ -40,7 +40,7 @@ def union(x, y, root, rank):
 def connected(x, y, root):
     return find(x, root) == find(y, root)
 
-############### solution - Prim ###############
+############### solution - Kruskal ###############
 
 N = int(input())
 M = int(input())
