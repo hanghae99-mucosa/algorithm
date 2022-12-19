@@ -1,6 +1,6 @@
 /*
  * 풀이
- * https://whimsical-report-4b5.notion.site/BOJ_1697-8cd3185fe1f146e9a559110532174006
+ * https://whimsical-report-4b5.notion.site/1697-8cd3185fe1f146e9a559110532174006
  */
 
 import java.util.LinkedList;

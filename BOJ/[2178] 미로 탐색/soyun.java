@@ -1,6 +1,6 @@
 /*
  * 풀이
- * https://whimsical-report-4b5.notion.site/BOJ_2178-e761439ad53e443bbd8cd7268c2376b6
+ * https://whimsical-report-4b5.notion.site/2178-e761439ad53e443bbd8cd7268c2376b6
  */
 
 import java.io.BufferedReader;
